@@ -1,14 +1,14 @@
 ### 👋 Hi there, I'm Charles Kitonga
 
-✨My Techstack is:
+✨My Techstack is:<br />
      -
-      **PHP Native & PhP/Laravel<br />
-        Javascript - VueJs<br />
-        HML5 & CSS<br />
-        Bootsrap<br />
-        MYSQL - PhPMyAdmin & PostgreSQL<br />
-        NoSQL - MongoDB<br />
-        GraphQL**
+      **- PHP Native & PhP/Laravel<br />
+        - Javascript - VueJs<br />
+        - HML5 & CSS<br />
+        - Bootsrap<br />
+        - MYSQL - PhPMyAdmin & PostgreSQL<br />
+        - NoSQL - MongoDB<br />
+        - GraphQL**
      
 
 🔭 I’m currently working on Ecommerce project to help artisans through a colleague market their artwork, specifically on Jewellery in a bid to promoe local businesses as well as gain handson experience in creaing a fully fledged E-commerce website. I am also working on a few personal projects to help horn my skills.
