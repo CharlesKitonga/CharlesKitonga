@@ -1,13 +1,13 @@
 ### 👋 Hi there, I'm Charles Kitonga
 
 ✨My Techstack is:
-   ### PHP Native & PhP/Laravel
-   ### Javascript - VueJs
-   ### HML5 & CSS
-   ### Bootsrap
-   ### MYSQL - PhPMyAdmin & PostgreSQL
-   ### NoSQL - MongoDB
-   ### GraphQL
+      **PHP Native & PhP/Laravel
+        Javascript - VueJs
+        HML5 & CSS
+        Bootsrap
+        MYSQL - PhPMyAdmin & PostgreSQL
+        NoSQL - MongoDB
+        GraphQL
 
 🔭 I’m currently working on Ecommerce project to help artisans through a colleague market their artwork, specifically on Jewellery in a bid to promoe local businesses as well as gain handson experience in creaing a fully fledged E-commerce website. I am also working on a few personal projects to help horn my skills.
 
@@ -19,8 +19,9 @@
 👯 I am looking to collaborate on any github projecs that suit my techstack and especially Open source work. Helping the community is a big part of my c
 
 📫 You can reach me on:
-   ### charleskyalo006@gmail.com
-   ### I am based in Nairobi, Kenya
+      **Email: charleskyalo006@gmail.com
+        LinkedIn: https://www.linkedin.com/in/charles-kitonga-51816312b/   
+   
 <!--
 **CharlesKitonga/CharlesKitonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
