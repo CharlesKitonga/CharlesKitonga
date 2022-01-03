@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Charles Kitonga :cowboy_hat_face:	
 
-### I am a Full Stack Software Developer and data Science enthusiast. I am passionate about technologies and love to learn new things.
+### I am a Full Stack Software Developer and data Science enthusiast. I am passionate about web development and love to learn new things.
 
 🔭 Currently looking for new opportunities.
 
