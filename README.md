@@ -20,7 +20,7 @@
 ### These are my GitHub Stats 😄
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CharlesKitonga&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats),[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesKitonga&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-👯 I am looking to collaborate on any github projecs that suit my techstack and especially Open source work. Helping the community is a big part of my c
+👯 I am looking to collaborate on any github projecs that suit my techstack and especially Open source work. Helping the community is a big part of my life.
 
 📫 You can reach me on:
       **Email: charleskyalo006@gmail.com
