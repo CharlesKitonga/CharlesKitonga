@@ -2,8 +2,6 @@
 
 ### I am a Full Stack Software Developer and data Science enthusiast. I am passionate about web development and love to learn new things.
 
-🔭 Currently looking for new opportunities.
-
 ✨My Techstack is:<br />
      
           - PHP Native & PhP/Laravel<br />
