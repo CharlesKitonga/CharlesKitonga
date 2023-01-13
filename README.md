@@ -1,6 +1,7 @@
 ### 👋 Hi there, I'm Charles Kitonga :cowboy_hat_face:	
 
-### I am a Full Stack Software Developer and data Science enthusiast. I am passionate about web development and love to learn new things.
+### I am a Full Stack Software Developer and data Science enthusiast. Getting life changing products into the hands of people is my calling, and eventually empowering a team to do the above will provide me with enormous gratification.
+### As someone who is highly focused and attentive to detail, I thrive on building quality systems that surpass end users' expectations. I am thrilled at the opportunity to show off my technical expertise and leadership skills.
 
 ✨My Techstack is:<br />
      
@@ -11,6 +12,7 @@
           - MYSQL - PhPMyAdmin & PostgreSQL<br />
           - NoSQL - MongoDB<br />
           - GraphQL**
+          - Quality Assurance - Automation & Manual Testing
      
 
 🤔 Learning diversity and appreciating technology has been a huge part of my year 2021. I am currently learning **Javascript, Python** to help with my web development skills.
