@@ -1,7 +1,7 @@
-### 👋 Hi there, I'm Charles Kitonga :cowboy_hat_face:	
+### 👋 Hi there, My name is Charles Kitonga :cowboy_hat_face:	
 
-### I am a Full Stack Software Developer and data Science enthusiast. Getting life changing products into the hands of people is my calling, and eventually empowering a team to do the above will provide me with enormous gratification.
-### As someone who is highly focused and attentive to detail, I thrive on building quality systems that surpass end users' expectations. I am thrilled at the opportunity to show off my technical expertise and leadership skills.
+### I am a Software Developer but more importantly, passionate about technology :). Getting life changing products into the hands of people and eventually empowering a team to do the above provides me with enormous gratification.
+### Skilled in creating user-friendly interfaces and responsive designs. Specializes in modern frameworks like React and Vue.js. Committed to delivering clean code and exceptional user experiences. Collaborative team player with a passion for innovative digital solutions. I am thrilled at the opportunity to show off my technical expertise and leadership skills.
 
 ✨My Techstack is:<br />
      
