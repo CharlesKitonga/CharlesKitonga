@@ -1,7 +1,8 @@
-### 👋 Hi there, My name is Charles Kitonga :cowboy_hat_face:	
+### 👋 Hello, I'm Charles Kitonga! :cowboy_hat_face:	
 
-### I am a Software Developer but more importantly, passionate about technology :). Getting life changing products into the hands of people and eventually empowering a team to do the above provides me with enormous gratification.
-### Skilled in creating user-friendly interfaces and responsive designs. Specializes in modern frameworks like React and Vue.js. Committed to delivering clean code and exceptional user experiences. Collaborative team player with a passion for innovative digital solutions. I am thrilled at the opportunity to show off my technical expertise and leadership skills.
+### As a Software Developer, I'm deeply passionate about technology and its potential to change lives. I find immense gratification in bringing life-changing products to people and empowering teams to do the same.My expertise lies in creating user-friendly interfaces and responsive designs. I specialize in modern frameworks like React and Vue.js, ensuring clean code and exceptional user experiences. I thrive in collaborative environments and am committed to delivering innovative digital solutions.
+
+I'm excited about the opportunity to showcase my technical skills and leadership abilities. Let's create something amazing together!
 
 ✨My Techstack is:<br />
      
