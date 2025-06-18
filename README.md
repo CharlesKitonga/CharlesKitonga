@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Charles Kitonga! :cowboy_hat_face:	
 
-### As a Software Developer, I am driven by a deep passion for technology and its power to make a meaningful impact. I find great fulfillment in delivering products that enrich lives, and I’m dedicated to empowering teams to achieve the same goal. With extensive experience in creating user-centered interfaces and responsive designs, I specialize in modern frameworks like **React** and **Vue.js** to produce clean, maintainable code and seamless user experiences. 
+### Charles Kitonga is a powerhouse of precision and innovation — a QA-savvy software developer with a knack for automation, frontend finesse, and team empowerment. From streamlining test cycles and leading successful product launches in East Africa to architecting sleek React interfaces with VueJS roots, he’s the kind of techie who doesn’t just ship clean code — he mentors, scales, and leads with purpose. Passionate about digital transformation, skilled in tools like Postman, Robot Framework, Selenium, and Rest Assured, and always leveling up (hello, AI courses!), Charles is a results-driven builder with a heart for people and a vision for impact.
 
 Throughout my career, I’ve thrived in collaborative settings, valuing teamwork and shared innovation to develop solutions that meet high standards of quality. I am genuinely excited about the opportunity to bring my technical expertise and leadership skills to new challenges—working together to build remarkable solutions.
 
