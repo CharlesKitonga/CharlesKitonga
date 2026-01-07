@@ -5,7 +5,8 @@ Passionate about clean code, reliable systems, mentorship, and continuous learni
 
 I thrive in collaborative environments and value teamwork as a driver of shared innovation and high-quality solutions. I enjoy taking on new challenges where I can apply my technical expertise, contribute to strong engineering practices, and work with others to build impactful, well-crafted products.
 
-✨My Techstack is:< br/>
+✨My Techstack is: <br />
+
 Languages & Frameworks
      
      JavaScript / TypeScript
